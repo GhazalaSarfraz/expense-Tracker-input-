@@ -19,3 +19,12 @@ A simple and stylish Flutter app to manage your daily expenses efficiently. The 
 - **Dart**
 - **Provider / SetState** (for state management)
 - **Local Storage** ( Share preference)
+
+  ## Screenshots
+
+![WhatsApp Image 2025-04-20 at 01 51 49_1b8466a7](https://github.com/user-attachments/assets/e304a789-041a-4545-8a8f-bf467a01f00e)
+
+![WhatsApp Image 2025-04-20 at 01 53 36_241f6eac](https://github.com/user-attachments/assets/a376c6da-33bc-48f1-8834-6d0a3e5c2fe1)
+
+![WhatsApp Image 2025-04-20 at 01 51 35_553d7027](https://github.com/user-attachments/assets/095d430f-e5c9-47fb-8127-b3e934053b21)
+  
