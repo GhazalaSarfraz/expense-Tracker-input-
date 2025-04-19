@@ -22,9 +22,9 @@ A simple and stylish Flutter app to manage your daily expenses efficiently. The 
 
 ## Pub.dev packages
 
-image_picker: ^1.1.2
-shared_preferences: ^2.5.3
-fl_chart: ^0.64.0
+- image_picker: ^1.1.2
+- shared_preferences: ^2.5.3
+- fl_chart: ^0.64.0
 
   ## Screenshots
 
